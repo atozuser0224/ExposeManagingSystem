@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AfreeKaPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AfreeKaPlugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AfreeKaPlugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AfreeKaPlugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExposedTest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ExposedTest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExposedTest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ExposedTest.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.gang.AfreeKaPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.gang.AfreeKaPlugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.gang.AfreeKaPlugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.gang.AfreeKaPlugin.test.iml" />
+    </modules>
+  </component>
+</project>
